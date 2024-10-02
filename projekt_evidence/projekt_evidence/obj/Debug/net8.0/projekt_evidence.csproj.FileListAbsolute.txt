@@ -1,0 +1,28 @@
+C:\Users\janst\Dropbox\C# Projekt\projekt_evidence\projekt_evidence\bin\Debug\net8.0\projekt_evidence.exe
+C:\Users\janst\Dropbox\C# Projekt\projekt_evidence\projekt_evidence\bin\Debug\net8.0\projekt_evidence.deps.json
+C:\Users\janst\Dropbox\C# Projekt\projekt_evidence\projekt_evidence\bin\Debug\net8.0\projekt_evidence.runtimeconfig.json
+C:\Users\janst\Dropbox\C# Projekt\projekt_evidence\projekt_evidence\bin\Debug\net8.0\projekt_evidence.dll
+C:\Users\janst\Dropbox\C# Projekt\projekt_evidence\projekt_evidence\bin\Debug\net8.0\projekt_evidence.pdb
+C:\Users\janst\Dropbox\C# Projekt\projekt_evidence\projekt_evidence\obj\Debug\net8.0\projekt_evidence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janst\Dropbox\C# Projekt\projekt_evidence\projekt_evidence\obj\Debug\net8.0\projekt_evidence.AssemblyInfoInputs.cache
+C:\Users\janst\Dropbox\C# Projekt\projekt_evidence\projekt_evidence\obj\Debug\net8.0\projekt_evidence.AssemblyInfo.cs
+C:\Users\janst\Dropbox\C# Projekt\projekt_evidence\projekt_evidence\obj\Debug\net8.0\projekt_evidence.csproj.CoreCompileInputs.cache
+C:\Users\janst\Dropbox\C# Projekt\projekt_evidence\projekt_evidence\obj\Debug\net8.0\projekt_evidence.dll
+C:\Users\janst\Dropbox\C# Projekt\projekt_evidence\projekt_evidence\obj\Debug\net8.0\refint\projekt_evidence.dll
+C:\Users\janst\Dropbox\C# Projekt\projekt_evidence\projekt_evidence\obj\Debug\net8.0\projekt_evidence.pdb
+C:\Users\janst\Dropbox\C# Projekt\projekt_evidence\projekt_evidence\obj\Debug\net8.0\projekt_evidence.genruntimeconfig.cache
+C:\Users\janst\Dropbox\C# Projekt\projekt_evidence\projekt_evidence\obj\Debug\net8.0\ref\projekt_evidence.dll
+C:\Users\janst\source\repos\jenxflenx\ZaverecnyProjektStokman\projekt_evidence\projekt_evidence\bin\Debug\net8.0\projekt_evidence.exe
+C:\Users\janst\source\repos\jenxflenx\ZaverecnyProjektStokman\projekt_evidence\projekt_evidence\bin\Debug\net8.0\projekt_evidence.deps.json
+C:\Users\janst\source\repos\jenxflenx\ZaverecnyProjektStokman\projekt_evidence\projekt_evidence\bin\Debug\net8.0\projekt_evidence.runtimeconfig.json
+C:\Users\janst\source\repos\jenxflenx\ZaverecnyProjektStokman\projekt_evidence\projekt_evidence\bin\Debug\net8.0\projekt_evidence.dll
+C:\Users\janst\source\repos\jenxflenx\ZaverecnyProjektStokman\projekt_evidence\projekt_evidence\bin\Debug\net8.0\projekt_evidence.pdb
+C:\Users\janst\source\repos\jenxflenx\ZaverecnyProjektStokman\projekt_evidence\projekt_evidence\obj\Debug\net8.0\projekt_evidence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janst\source\repos\jenxflenx\ZaverecnyProjektStokman\projekt_evidence\projekt_evidence\obj\Debug\net8.0\projekt_evidence.AssemblyInfoInputs.cache
+C:\Users\janst\source\repos\jenxflenx\ZaverecnyProjektStokman\projekt_evidence\projekt_evidence\obj\Debug\net8.0\projekt_evidence.AssemblyInfo.cs
+C:\Users\janst\source\repos\jenxflenx\ZaverecnyProjektStokman\projekt_evidence\projekt_evidence\obj\Debug\net8.0\projekt_evidence.csproj.CoreCompileInputs.cache
+C:\Users\janst\source\repos\jenxflenx\ZaverecnyProjektStokman\projekt_evidence\projekt_evidence\obj\Debug\net8.0\projekt_evidence.dll
+C:\Users\janst\source\repos\jenxflenx\ZaverecnyProjektStokman\projekt_evidence\projekt_evidence\obj\Debug\net8.0\refint\projekt_evidence.dll
+C:\Users\janst\source\repos\jenxflenx\ZaverecnyProjektStokman\projekt_evidence\projekt_evidence\obj\Debug\net8.0\projekt_evidence.pdb
+C:\Users\janst\source\repos\jenxflenx\ZaverecnyProjektStokman\projekt_evidence\projekt_evidence\obj\Debug\net8.0\projekt_evidence.genruntimeconfig.cache
+C:\Users\janst\source\repos\jenxflenx\ZaverecnyProjektStokman\projekt_evidence\projekt_evidence\obj\Debug\net8.0\ref\projekt_evidence.dll

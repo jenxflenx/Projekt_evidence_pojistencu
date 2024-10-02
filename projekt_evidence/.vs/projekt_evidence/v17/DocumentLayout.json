@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\janst\\OneDrive\\Dokumenty\\GitHub\\Projekt_evidence_pojistencu\\projekt_evidence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA0D16-6EA9-4A4B-BED1-282BA108DC4A}|projekt_evidence\\projekt_evidence.csproj|c:\\users\\janst\\onedrive\\dokumenty\\github\\projekt_evidence_pojistencu\\projekt_evidence\\projekt_evidence\\uzivatelskerozhrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAA0D16-6EA9-4A4B-BED1-282BA108DC4A}|projekt_evidence\\projekt_evidence.csproj|solutionrelative:projekt_evidence\\uzivatelskerozhrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA0D16-6EA9-4A4B-BED1-282BA108DC4A}|projekt_evidence\\projekt_evidence.csproj|c:\\users\\janst\\onedrive\\dokumenty\\github\\projekt_evidence_pojistencu\\projekt_evidence\\projekt_evidence\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAA0D16-6EA9-4A4B-BED1-282BA108DC4A}|projekt_evidence\\projekt_evidence.csproj|solutionrelative:projekt_evidence\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA0D16-6EA9-4A4B-BED1-282BA108DC4A}|projekt_evidence\\projekt_evidence.csproj|c:\\users\\janst\\onedrive\\dokumenty\\github\\projekt_evidence_pojistencu\\projekt_evidence\\projekt_evidence\\pojistenec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAA0D16-6EA9-4A4B-BED1-282BA108DC4A}|projekt_evidence\\projekt_evidence.csproj|solutionrelative:projekt_evidence\\pojistenec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA0D16-6EA9-4A4B-BED1-282BA108DC4A}|projekt_evidence\\projekt_evidence.csproj|c:\\users\\janst\\onedrive\\dokumenty\\github\\projekt_evidence_pojistencu\\projekt_evidence\\projekt_evidence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAA0D16-6EA9-4A4B-BED1-282BA108DC4A}|projekt_evidence\\projekt_evidence.csproj|solutionrelative:projekt_evidence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA0D16-6EA9-4A4B-BED1-282BA108DC4A}|projekt_evidence\\projekt_evidence.csproj|c:\\users\\janst\\onedrive\\dokumenty\\github\\projekt_evidence_pojistencu\\projekt_evidence\\projekt_evidence\\evidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAA0D16-6EA9-4A4B-BED1-282BA108DC4A}|projekt_evidence\\projekt_evidence.csproj|solutionrelative:projekt_evidence\\evidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\janst\\OneDrive\\Dokumenty\\GitHub\\Projekt_evidence_pojistencu\\projekt_evidence\\projekt_evidence\\Program.cs",
+              "RelativeDocumentMoniker": "projekt_evidence\\Program.cs",
+              "ToolTip": "C:\\Users\\janst\\OneDrive\\Dokumenty\\GitHub\\Projekt_evidence_pojistencu\\projekt_evidence\\projekt_evidence\\Program.cs",
+              "RelativeToolTip": "projekt_evidence\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:04:01.424Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Evidence.cs",
+              "DocumentMoniker": "C:\\Users\\janst\\OneDrive\\Dokumenty\\GitHub\\Projekt_evidence_pojistencu\\projekt_evidence\\projekt_evidence\\Evidence.cs",
+              "RelativeDocumentMoniker": "projekt_evidence\\Evidence.cs",
+              "ToolTip": "C:\\Users\\janst\\OneDrive\\Dokumenty\\GitHub\\Projekt_evidence_pojistencu\\projekt_evidence\\projekt_evidence\\Evidence.cs",
+              "RelativeToolTip": "projekt_evidence\\Evidence.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:18:06.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pojistenec.cs",
+              "DocumentMoniker": "C:\\Users\\janst\\OneDrive\\Dokumenty\\GitHub\\Projekt_evidence_pojistencu\\projekt_evidence\\projekt_evidence\\Pojistenec.cs",
+              "RelativeDocumentMoniker": "projekt_evidence\\Pojistenec.cs",
+              "ToolTip": "C:\\Users\\janst\\OneDrive\\Dokumenty\\GitHub\\Projekt_evidence_pojistencu\\projekt_evidence\\projekt_evidence\\Pojistenec.cs",
+              "RelativeToolTip": "projekt_evidence\\Pojistenec.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:05:30.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UzivatelskeRozhrani.cs",
+              "DocumentMoniker": "C:\\Users\\janst\\OneDrive\\Dokumenty\\GitHub\\Projekt_evidence_pojistencu\\projekt_evidence\\projekt_evidence\\UzivatelskeRozhrani.cs",
+              "RelativeDocumentMoniker": "projekt_evidence\\UzivatelskeRozhrani.cs",
+              "ToolTip": "C:\\Users\\janst\\OneDrive\\Dokumenty\\GitHub\\Projekt_evidence_pojistencu\\projekt_evidence\\projekt_evidence\\UzivatelskeRozhrani.cs",
+              "RelativeToolTip": "projekt_evidence\\UzivatelskeRozhrani.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:35:30.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\janst\\OneDrive\\Dokumenty\\GitHub\\Projekt_evidence_pojistencu\\projekt_evidence\\projekt_evidence\\Validator.cs",
+              "RelativeDocumentMoniker": "projekt_evidence\\Validator.cs",
+              "ToolTip": "C:\\Users\\janst\\OneDrive\\Dokumenty\\GitHub\\Projekt_evidence_pojistencu\\projekt_evidence\\projekt_evidence\\Validator.cs",
+              "RelativeToolTip": "projekt_evidence\\Validator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:55:27.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
